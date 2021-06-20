@@ -1,7 +1,10 @@
 # [Replace this with your project title]
 
 ## About Me
+<<<<<<< HEAD
 My name is Daniel! 
+=======
+>>>>>>> upstream/main
 
 ## The Premise
 
